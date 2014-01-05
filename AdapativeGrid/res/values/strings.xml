@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AdapativeGrid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="gridViewStrings">
+        <item >Grid Item</item>
+        <item >Grid Item</item>
+        <item >Grid Item</item>
+        <item >Grid Item</item>
+        <item >Grid Item</item>
+        <item >Grid Item</item>
+        <item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+       	<item >Grid Item</item>
+    </string-array>
+
+</resources>
